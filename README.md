@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here’s the README in markdown format:
 
 # ChatBot Order System
@@ -99,3 +100,6 @@ The chatbot order system allows users to interact with an AI-based chatbot to pl
 - **Environment Variables**: Remember to populate your `.env` file with your OpenAI API key before running the project.
 - **FAISS Compatibility**: Ensure your Python environment supports FAISS. Some installations may require system-level dependencies.
 - **Development Only**: This setup is configured for development use. For production deployment, consider using a more robust database (e.g., PostgreSQL) and implementing additional security measures.
+=======
+# EWA
+>>>>>>> b39aa5fa2c56d4417ebb85c3ac847b530a7577b5
